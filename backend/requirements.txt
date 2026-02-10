@@ -1,0 +1,13 @@
+# Backend dependencies for Trailblazer Welfare Navigator
+# Python packages required for FastAPI backend with LangGraph agent
+
+# Web framework and server
+fastapi
+uvicorn
+
+# LangGraph and LangChain for agent orchestration
+langgraph
+langchain-google-genai
+
+# Environment variable management
+python-dotenv
